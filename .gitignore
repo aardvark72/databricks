@@ -3,6 +3,12 @@ __pycache__/
 *.py[codz]
 *$py.class
 
+# Kafka / SSL certificates
+certs/
+*.pem
+*.crt
+*.key
+
 # C extensions
 *.so
 
